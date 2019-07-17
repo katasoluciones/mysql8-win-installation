@@ -19,7 +19,7 @@ Para instalar, solo debes ejecutar el archivo que se descargó y esperar a segui
 
 **Primero debemos aceptar los términos y condiciones del programa. Si existe alguna duda al respecto se puede leer los términos y condiciones que maneja la aplicación.**
 
-![Imagen1](./assets/install1.png "Pantalla de inicio")
+![Imagen1](./assets/install1.PNG)
 
 **Ahora, en la siguente ventana, podemos seleccionar la opción que esta por default. En mi caso solo tomaré algunos componentes necesarios; por lo tanto seleccionaré la opcion de CUSTOM.**
 
