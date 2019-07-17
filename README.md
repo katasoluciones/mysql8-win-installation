@@ -19,48 +19,48 @@ Para instalar, solo debes ejecutar el archivo que se descargó y esperar a segui
 
 **Primero debemos aceptar los términos y condiciones del programa. Si existe alguna duda al respecto se puede leer los términos y condiciones que maneja la aplicación.**
 
-![Imagen1](./assets/install1.png "Pantalla de inicio")
+![Imagen1](./assets/terminos_y_condiciones.png "Pantalla de inicio")
 
 **Ahora, en la siguente ventana, podemos seleccionar la opción que esta por default. En mi caso solo tomaré algunos componentes necesarios; por lo tanto seleccionaré la opcion de CUSTOM.**
 
-![Imagen2](./assets/install2.png)
+![Imagen2](./assets/setup_type.png)
 
 **Como ya he mencionado anteriormente, solo agregaré los componentes así como se muestra en la siguiente imagen. Y damos en la opción de Next.**
 
-![Imagen3](./assets/install3.png)
+![Imagen3](./assets/select_products_and_features.png)
 
 **En la siguiente ventana, veremos que este listo cada uno de los componente que se agregaron con la palabra de "Ready"; y damos en "Execute".**
 
-![Imagen4](./assets/install4.png)
+![Imagen4](./assets/installation.png)
 
 **Una vez completado, damos  en "Next".**
 
-![Imagen5](./assets/install5.png)
+![Imagen5](./assets/installation_next.png)
 
 **Después seleccionamos la opción como se muestra en la imagen.**
 
-![Imagen6](./assets/install6.png)
+![Imagen6](./assets/high_availability.png)
 
 **Ahora vamos a seleccionar la opción de "Development Computer". Recomiendo que el puerto sea el 3306, yo aquí usaré el 3307 ya que el puerto 3306 ya esta en uso. Si tienes el mismo caso, puesdes usar entre los puertos 3306-3309.**
 
-![Imagen7](./assets/install7.png)
+![Imagen7](./assets/type_networking.png)
 
 **En la siguiente imagen usamos la primera opción.**
 
-![Imagen8](./assets/install8.png)
+![Imagen8](./assets/authentication.png)
 
 **En esta imagen solo me pide a mi una contraseña. En tu caso deberá pedirte igual alguna contraseña y que la confirmes. Y le das en continuar.**
 
-![Imagen9](./assets/install9.png)
+![Imagen9](./assets/accounts_and_roles.png)
 
 **En la siguiente ventana puedes dejar la confic¿guración como se muestra la imagen, o puedes cambiar alguna opción a como lo veas mejor conveniente.**
 
-![Imagen10](./assets/install10.png)
+![Imagen10](./assets/windows_service.png)
 
 **En la siguiente ventana solo le das en la opción de "Execute", y esperas a que termine.**
 
-![Imagen11](./assets/install11.png)
+![Imagen11](./assets/apply_configuration.png)
 
 **Y ahora como último punto, solo damos en finalizar, y el programa de MySQL se iniciará.**
 
-![Imagen12](./assets/install12.png)
+![Imagen12](./assets/installation_complete.png)
