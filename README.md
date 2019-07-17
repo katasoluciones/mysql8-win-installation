@@ -11,7 +11,7 @@ Esta es la documentación para la instalación y configuración de MySQL 8.0.16.
 Para descargarlo, solo debes entrar a [MySQL Site](https://dev.mysql.com/downloads/installer/) y utilizar la versión indicada, o alguna versión más reciente.
 Una vez elegido la versión y el sistema operativo que es Windows, descargamos el archivo.
 
-![WebSite](./assets/principalMySQL.png)
+![WebSite](./assets/principal_mysql.png)
 
 ## Proceso de instalación
 
